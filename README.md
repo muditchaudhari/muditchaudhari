@@ -52,8 +52,24 @@ Welcome to my wine-tasting adventures! An engineering student decoding life, cli
 ![MongoDB Badge](https://img.shields.io/badge/DBMS-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
 ![DynamoDB Badge](https://img.shields.io/badge/DBMS-DynamoDB-informational?style=flat&logo=amazon-dynamodb&color=4053D6)
 ![SQLite Badge](https://img.shields.io/badge/DBMS-SQLite-informational?style=flat&logo=sqlite&color=003B57)
+![MySQL Badge](https://img.shields.io/badge/DBMS-MySQL-informational?style=flat&logo=mysql&color=4479A1)
+![PostgreSQL Badge](https://img.shields.io/badge/DBMS-PostgreSQL-informational?style=flat&logo=postgresql&color=336791)
+![Redis Badge](https://img.shields.io/badge/DBMS-Redis-informational?style=flat&logo=redis&color=DC382D)
 
+![Django Badge](https://img.shields.io/badge/Backend-Django-informational?style=flat&logo=django&color=092E20)
+![Flask Badge](https://img.shields.io/badge/Backend-Flask-informational?style=flat&logo=flask&color=000000)
+![React Badge](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&color=61DAFB)
+![Angular Badge](https://img.shields.io/badge/Frontend-Angular-informational?style=flat&logo=angular&color=DD0031)
+![Next.js Badge](https://img.shields.io/badge/Frontend-Next.js-informational?style=flat&logo=next.js&color=000000)
+![Node.js Badge](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&color=339933)
+![Express Badge](https://img.shields.io/badge/Backend-Express.js-informational?style=flat&logo=express&color=000000)
 
+![Docker Badge](https://img.shields.io/badge/Deployment-Docker-informational?style=flat&logo=docker&color=2496ED)
+![OpenShift Badge](https://img.shields.io/badge/Deployment-OpenShift-informational?style=flat&logo=openshift&color=EE0000)
+![Kubernetes Badge](https://img.shields.io/badge/Deployment-Kubernetes-informational?style=flat&logo=kubernetes&color=326CE5)
+![AWS Badge](https://img.shields.io/badge/Deployment-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
+![AWS CDK Badge](https://img.shields.io/badge/Deployment-AWS_CDK-informational?style=flat&logo=amazon-aws&color=232F3E)
+![Git Badge](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=git&color=F05032)
 
 </br>
 
