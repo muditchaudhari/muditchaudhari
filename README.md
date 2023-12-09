@@ -41,7 +41,7 @@ Welcome to my wine-tasting adventures! An engineering student decoding life, cli
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-springboot-informational?style=flat&logo=react&color=6DB33F)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
