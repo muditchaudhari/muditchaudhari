@@ -13,7 +13,6 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸, and I love to Trek🏔�
 Welcome to my wine tasting endaevours!!
 
 ### 🤝 Connect with me:
-### 🤝 Connect with me:
 <div class="social-icons">
     <a href="https://www.linkedin.com/in/mudit-chaudhari-ba2a63169/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Mudit Chaudhari | LinkedIn" width="21px"/></a>
     <a href="https://twitter.com/MuditChaudhari"><img align="left" src="Images/3225183_app_logo_media_popular_social_icon.svg" alt="Mudit Chuadhari | Twitter" width="21px"/></a>
@@ -23,10 +22,9 @@ Welcome to my wine tasting endaevours!!
     <a href="https://www.facebook.com/muditchaudhari/"><img align="left" src="Images/317727_facebook_social media_social_icon.svg" alt="Mudit Chaudhari | Facebook" width="21px"/></a>
     <a href="https://discordapp.com/users/426413605773246479"><img align="left" src="Images/8725815_discord_icon.svg" alt="Mudit Chaudhari | Discord" width="24px"/></a>
 </div>
-<!-- Add a line break for a new row -->
-<br>
+<div>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
+</div>
 
 ## 🔭 I'm currently working on
 
