@@ -41,14 +41,20 @@ Welcome to my wine-tasting adventures! An engineering student decoding life, cli
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-springboot-informational?style=flat&logo=springboot&color=6DB33F)
+![Java Badge](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=007396)
+![Python Badge](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
+![C Badge](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&color=A8B9CC)
+![C++ Badge](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&color=00599C)
+![Scala Badge](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=scala&color=DC322F)
+![JavaScript Badge](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+<!-- ![](https://img.shields.io/badge/Code-springboot-informational?style=flat&logo=springboot&color=6DB33F)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
 ![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57) -->
 
 </br>
 
