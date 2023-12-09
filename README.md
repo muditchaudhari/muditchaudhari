@@ -12,7 +12,7 @@ Hi there, I'm Mudit</a> 👋
 I'm a Full-Stack Web Developer 💻, Photographer 📸, and I love to Trek🏔️!
 </h2> 
 
-Welcome to my wine tasting endaevours!! I am an undergratudate at IIT Kharagpur and I am a forced programmer because i coudnlt be a photographer
+Welcome to my wine-tasting adventures! An engineering student decoding life, clicking moments, and enjoying classic movies. On a quest to conquer personal checklists, while the rhythm of metal and classic rock guides my journey. Mountains always trump beaches for me!
 
 ### 🤝 Connect with me:
 <div class="social-icons">
