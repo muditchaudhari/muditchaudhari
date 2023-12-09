@@ -21,6 +21,10 @@ Welcome to my wine tasting endaevours!!
 <a href="https://www.instagram.com/muditchaudhari/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Mudit Chuadhari | Instagram" width="24px"/></a>
 <a href="https://www.facebook.com/muditchaudhari/"><img align="left" src="Images/317727_facebook_social media_social_icon.svg" alt="Mudit Chaudhari | Facebook" width="21px"/></a>
 <a href="https://discordapp.com/users/426413605773246479"><img align="left" src="Images/8725815_discord_icon.svg" alt="Mudit Chaudhari | Discord" width="21px"/></a>
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+</br>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
