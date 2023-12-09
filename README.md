@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://www.fallingfalling.com/" target="_blank" rel="noreferrer">
-    <img src="Images/Pixel Jeff_ Photo.gif" alt="my banner" height="300">
-  </a>
-</p>
-
 <h3 align="center">
 Yo! I'm Mudit</a> 👋
 </h3>
@@ -11,6 +5,12 @@ Yo! I'm Mudit</a> 👋
 <h2 align="center">
 I'm a Full-Stack Developer 💻, Photographer 📸, and I love to Trek🏔️!
 </h2> 
+
+<p align="center">
+  <a href="https://www.fallingfalling.com/" target="_blank" rel="noreferrer">
+    <img src="Images/Pixel Jeff_ Photo.gif" alt="my banner" height="300">
+  </a>
+</p>
 
 Welcome to my wine-tasting adventures! An engineering student decoding life, clicking moments, and enjoying classic movies. On a quest to conquer personal checklists, while the rhythm of metal and classic rock guides my journey. Mountains always trump beaches for me!
 
