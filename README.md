@@ -47,14 +47,13 @@ Welcome to my wine-tasting adventures! An engineering student decoding life, cli
 ![C++ Badge](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&color=00599C)
 ![Scala Badge](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=scala&color=DC322F)
 ![JavaScript Badge](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-<!-- ![](https://img.shields.io/badge/Code-springboot-informational?style=flat&logo=springboot&color=6DB33F)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57) -->
+
+![Amazon RDS Badge](https://img.shields.io/badge/DBMS-Amazon_RDS-informational?style=flat&logo=amazon-aws&color=FF9900)
+![MongoDB Badge](https://img.shields.io/badge/DBMS-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
+![DynamoDB Badge](https://img.shields.io/badge/DBMS-DynamoDB-informational?style=flat&logo=amazon-dynamodb&color=4053D6)
+![SQLite Badge](https://img.shields.io/badge/DBMS-SQLite-informational?style=flat&logo=sqlite&color=003B57)
+
+
 
 </br>
 
