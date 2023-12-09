@@ -14,12 +14,13 @@ Welcome to my wine tasting endaevours!!
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/mudit-chaudhari-ba2a63169/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Mudit Chaudhari | LinkedIn" width="21px"/></a>
-<a href="https://twitter.com/MuditChaudhari"><img align="left" src="Images/3225183_app_logo_media_popular_social_icon.svg" alt="Mudit Chuadhari | Twitter" width="21px"/></a>
-<a href="https://open.spotify.com/user/gykvfu66ttvv0tu2k5jcadcgf?si=0b4c2a102a114696"><img align="left" src="Images/1298766_spotify_music_sound_icon.svg" alt="Mudit Chuadhari | Spotify" width="21px"/></a>
-<a href="https://in.pinterest.com/muditchaudhari/"><img align="left" src="Images/317731_pinterest_social_social media_icon.svg" alt="Mudit Chuadhari | Pinterest" width="21px"/></a>
-<a href="https://www.instagram.com/muditchaudhari/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Mudit Chuadhari | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://www.linkedin.com/in/mudit-chaudhari-ba2a63169/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Mudit Chaudhari | LinkedIn" width="24px"/></a>
+<a href="https://twitter.com/MuditChaudhari"><img align="left" src="Images/3225183_app_logo_media_popular_social_icon.svg" alt="Mudit Chuadhari | Twitter" width="24px"/></a>
+<a href="https://open.spotify.com/user/gykvfu66ttvv0tu2k5jcadcgf?si=0b4c2a102a114696"><img align="left" src="Images/1298766_spotify_music_sound_icon.svg" alt="Mudit Chuadhari | Spotify" width="24px"/></a>
+<a href="https://in.pinterest.com/muditchaudhari/"><img align="left" src="Images/317731_pinterest_social_social media_icon.svg" alt="Mudit Chuadhari | Pinterest" width="24px"/></a>
+<a href="https://www.instagram.com/muditchaudhari/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Mudit Chuadhari | Instagram" width="24px"/></a>
+<a href="https://www.facebook.com/muditchaudhari/"><img align="left" src="Images/317727_facebook_social media_social_icon.svg" alt="Mudit Chaudhari | Facebook" width="24px"/></a>
+<a href="https://discordapp.com/users/426413605773246479"><img align="left" src="Images/8725815_discord_icon.svg" alt="Mudit Chaudhari | Discord" width="24px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
