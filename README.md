@@ -1,5 +1,7 @@
 <p align="center">
-  <a href="https://www.fallingfalling.com/" target="_blank" rel="noreferrer"><img src="Images/Pixel Jeff_ Photo.gif" alt="my banner"></a>
+  <a href="https://www.fallingfalling.com/" target="_blank" rel="noreferrer">
+    <img src="Images/Pixel Jeff_ Photo.gif" alt="my banner" height="300">
+  </a>
 </p>
 
 <h3 align="center">
