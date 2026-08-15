@@ -1,91 +1,88 @@
-<h3 align="center">
-Yo! I'm Mudit 👋
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:D97706,100:F59E0B&height=200&section=header&text=Mudit%20Chaudhari&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Photographer%20%C2%B7%20Trekker&descSize=17&descAlignY=58" width="100%" alt="Mudit Chaudhari" />
 
-<h2 align="center">
-Software Engineer 💻, Photographer 📸, and I love to Trek 🏔️!
-</h2>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.fallingfalling.com/" target="_blank" rel="noreferrer">
-    <img src="Images/Pixel Jeff_ Photo.gif" alt="my banner" height="300">
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=F59E0B&center=true&vCenter=true&width=680&height=42&lines=Software+Engineer+%40+Amazon;Distributed+systems+%26+event-driven+design;Learning+Rust+the+hard+way;Mountains+%3E+beaches)](https://github.com/muditchaudhari)
 
-Welcome to my wine-tasting adventures! I build large-scale distributed systems at Amazon by day — decoding life, clicking moments, and enjoying classic movies by night. IIT Kharagpur grad, currently somewhere between a design doc and a mountain trail. On a quest to conquer personal checklists, while the rhythm of metal and classic rock guides my journey. Mountains always trump beaches for me!
+<a href="https://www.linkedin.com/in/mudit-chaudhari-ba2a63169/"><img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" /></a>
+<a href="https://twitter.com/MuditChaudhari"><img src="https://skillicons.dev/icons?i=twitter" height="42" alt="Twitter" /></a>
+<a href="https://www.instagram.com/muditchaudhari/"><img src="https://skillicons.dev/icons?i=instagram" height="42" alt="Instagram" /></a>
+<a href="https://open.spotify.com/user/gykvfu66ttvv0tu2k5jcadcgf?si=0b4c2a102a114696"><img src="https://skillicons.dev/icons?i=spotify" height="42" alt="Spotify" /></a>
+<a href="https://discordapp.com/users/426413605773246479"><img src="https://skillicons.dev/icons?i=discord" height="42" alt="Discord" /></a>
 
-### 🤝 Connect with me:
-<div class="social-icons">
-    <a href="https://www.linkedin.com/in/mudit-chaudhari-ba2a63169/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Mudit Chaudhari | LinkedIn" width="21px"/></a>
-    <a href="https://twitter.com/MuditChaudhari"><img align="left" src="Images/3225183_app_logo_media_popular_social_icon.svg" alt="Mudit Chuadhari | Twitter" width="21px"/></a>
-    <a href="https://open.spotify.com/user/gykvfu66ttvv0tu2k5jcadcgf?si=0b4c2a102a114696"><img align="left" src="https://github.com/muditchaudhari/muditchaudhari/blob/b4289f3284d78bc4f4eccf724e1367b496126294/Images/1298766_spotify_music_sound_icon.svg" alt="Mudit Chuadhari | Spotify" width="21px"/></a>
-    <a href="https://in.pinterest.com/muditchaudhari/"><img align="left" src="Images/317731_pinterest_social_social media_icon.svg" alt="Mudit Chuadhari | Pinterest" width="21px"/></a>
-    <a href="https://www.instagram.com/muditchaudhari/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Mudit Chuadhari | Instagram" width="24px"/></a>
-    <a href="https://www.facebook.com/muditchaudhari/"><img align="left" src="Images/317727_facebook_social media_social_icon.svg" alt="Mudit Chaudhari | Facebook" width="21px"/></a>
-    <a href="https://discordapp.com/users/426413605773246479"><img align="left" src="Images/8725815_discord_icon.svg" alt="Mudit Chaudhari | Discord" width="24px"/></a>
+<sub>also on <a href="https://www.facebook.com/muditchaudhari/">Facebook</a> · <a href="https://in.pinterest.com/muditchaudhari/">Pinterest</a></sub>
+
 </div>
-<div>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-</div>
+
+<br />
+
+<img src="Images/Pixel Jeff_ Photo.gif" align="right" height="150" alt="" />
+
+### `whoami`
+
+Welcome to my wine-tasting adventures. I build large-scale distributed systems at Amazon by
+day — decoding life, clicking moments, and enjoying classic movies by night.
+
+IIT Kharagpur grad, currently somewhere between a design doc and a mountain trail. On a quest
+to conquer personal checklists, while the rhythm of metal and classic rock guides my journey.
+
+**Mountains always trump beaches.**
+
+<br clear="right" />
+
+---
 
 ## 💼 What I do
 
-**Software Development Engineer @ Amazon** · Bengaluru · since 2024
-
-Full-stack engineer working on backend services at scale. I write design docs, argue about
-them, ship the result, and take my turn on-call.
-
-Before that: **Industrial & Systems Engineering @ IIT Kharagpur**.
+> **Software Development Engineer @ Amazon** · Bengaluru · since 2024
+>
+> Full-stack engineer working on backend services at scale. I write design docs, argue about
+> them, ship the result, and take my turn on-call.
+>
+> Before that — **Industrial & Systems Engineering @ IIT Kharagpur**.
 
 ## 🧩 The kind of problems I enjoy
 
-- ⚡ Turning polling-based workflows into **event-driven, serverless** ones — and watching the latency and the bill both drop
-- 🌍 **Multi-region data replication**: replication lag, conflict resolution, and migrating live traffic without downtime
-- 🧵 Propagating request context safely **across a microservices mesh**, without threading a parameter through fifty function signatures
-- 🚦 Shipping risky changes behind **feature flags**, with staged rollouts and a dial-up you can turn back down at 2am
-- 🔌 Integrating **third-party APIs** that fail in ways their docs never mention
-- 🧯 Owning things in production — the on-call pager is a good teacher
+| | |
+|---|---|
+| ⚡ | Turning polling-based workflows into **event-driven, serverless** ones — and watching the latency and the bill both drop |
+| 🌍 | **Multi-region data replication** — replication lag, conflict resolution, migrating live traffic without downtime |
+| 🧵 | Propagating request context **across a microservices mesh**, without threading a parameter through fifty signatures |
+| 🚦 | Shipping risky changes behind **feature flags**, with a dial-up you can turn back down at 2am |
+| 🔌 | Integrating **third-party APIs** that fail in ways their docs never mention |
+| 🧯 | Owning things in production — the on-call pager is a good teacher |
+
+## 🛠 Tech I work with
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,rust,cpp&theme=dark" alt="Languages" />
+
+<img src="https://skillicons.dev/icons?i=aws,spring,nodejs,react,docker,kubernetes&theme=dark" alt="Frameworks and infra" />
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,git,linux,githubactions&theme=dark" alt="Data and tooling" />
+
+</div>
 
 ## 🌱 Currently learning
 
-- 🦀 Rust — picking it up by reading and patching real open-source codebases
-- Distributed systems, consistency models, and system design
-- Still trying to give aesthetics to my front-end
+- 🦀 **Rust** — picking it up by reading and patching real open-source codebases
+- 🧠 Distributed systems, consistency models, and system design
+- 🎨 Still trying to give aesthetics to my front-end
 
-## 💻 Technical Skills
+---
 
-![Java Badge](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&color=007396)
-![Python Badge](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-![TypeScript Badge](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
-![JavaScript Badge](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![Rust Badge](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&color=000000)
-![C++ Badge](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&color=00599C)
-![SQL Badge](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&color=336791)
+## 📊 The numbers
 
-![AWS Lambda Badge](https://img.shields.io/badge/AWS-Lambda-informational?style=flat&color=FF9900)
-![DynamoDB Badge](https://img.shields.io/badge/AWS-DynamoDB-informational?style=flat&color=4053D6)
-![SNS/SQS Badge](https://img.shields.io/badge/AWS-SNS_%2F_SQS-informational?style=flat&color=FF4F8B)
-![OpenSearch Badge](https://img.shields.io/badge/AWS-OpenSearch-informational?style=flat&logo=opensearch&color=005EB8)
-![ECS Badge](https://img.shields.io/badge/AWS-EC2_%2F_ECS-informational?style=flat&color=FF9900)
-![AWS CDK Badge](https://img.shields.io/badge/AWS-CDK-informational?style=flat&color=232F3E)
+<div align="center">
 
-![Spring Badge](https://img.shields.io/badge/Backend-Spring_MVC-informational?style=flat&logo=spring&color=6DB33F)
-![Node.js Badge](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&color=339933)
-![React Badge](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&color=61DAFB)
-![REST Badge](https://img.shields.io/badge/API-REST-informational?style=flat&logo=fastapi&color=009688)
+<img src="https://raw.githubusercontent.com/muditchaudhari/muditchaudhari/output/snake-dark.svg" width="100%" alt="Contribution snake" />
 
-![Docker Badge](https://img.shields.io/badge/Deployment-Docker-informational?style=flat&logo=docker&color=2496ED)
-![Kubernetes Badge](https://img.shields.io/badge/Deployment-Kubernetes-informational?style=flat&logo=kubernetes&color=326CE5)
-![OpenShift Badge](https://img.shields.io/badge/Deployment-OpenShift-informational?style=flat&logo=redhatopenshift&color=EE0000)
-![CI/CD Badge](https://img.shields.io/badge/Practice-CI%2FCD-informational?style=flat&logo=githubactions&color=2088FF)
-![Git Badge](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=git&color=F05032)
-![Linux Badge](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=FCC624)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muditchaudhari&bg_color=0D1117&color=F59E0B&line=F59E0B&point=FBBF24&area_color=D97706&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity graph" />
 
-## 📈 GitHub Stats
+<img src="https://img.shields.io/github/followers/muditchaudhari?style=for-the-badge&logo=github&color=0D1117&labelColor=0D1117&logoColor=F59E0B" alt="Followers" />
+<img src="https://img.shields.io/github/stars/muditchaudhari?style=for-the-badge&logo=github&color=0D1117&labelColor=0D1117&logoColor=F59E0B" alt="Stars" />
 
-<p align="left">
-  <img src="https://img.shields.io/github/followers/muditchaudhari?style=for-the-badge&logo=github&color=181717&labelColor=0d1117" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/muditchaudhari?style=for-the-badge&logo=github&color=181717&labelColor=0d1117" alt="Stars" />
-</p>
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=muditchaudhari&theme=dark&hide_border=true&border_radius=8)](https://github.com/muditchaudhari)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:D97706,100:0D1117&height=120&section=footer" width="100%" alt="" />
